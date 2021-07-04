@@ -1,0 +1,21 @@
+ with one hidden layer the best resault is:
+ 
+ Network Accuracy For Testing Set - with one Layer - Cross validation : 93.4
+ The best Network Accuracy for Training Set is: 95.475
+ with parameters:
+ alpha = 3
+ Lambda = 0.01
+ Hidden Layer Size: 8
+ Network Accuracy For Testing Set - with one Layer: 95.6
+
+
+ with two hidden layers the best resault is:
+
+ Network Accuracy For Testing Set - with two Layers - Cross validation: 93.4
+ The best Network Accuracy for Training Set is: 94.6
+ with parameters:
+ alpha = 3
+ Lambda = 0.01
+ First Hidden Layer Size: 8
+ Seconed Layer Size: 8
+ Network Accuracy For Testing Set - with Two Layers: 95.02
